@@ -5,7 +5,7 @@
 import numpy as np
 from sklearn.linear_model import Perceptron
 
-# Definição dos dados (features)
+# Definição dos dados 
 X = np.array([
     [0, 0, 0],
     [0, 1, 0],
