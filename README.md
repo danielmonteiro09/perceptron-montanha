@@ -46,7 +46,7 @@ for i, exemplo in enumerate(novos_exemplos):
 import numpy as np
 from sklearn.linear_model import Perceptron
 
-# Definição dos dados de entrada (features)
+# Definição dos dados de entrada 
 X = np.array([
     [0, 1, 1, 1],
     [1, 0, 1, 1],
