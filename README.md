@@ -1,6 +1,6 @@
 # perceptron-montanha
 
-#Exercício 2 - Prática de Inteligência Artificial: Decisão de Ir ao Parque
+# Exercício 2 - Prática de Inteligência Artificial: Decisão de Ir ao Parque
 
 import numpy as np
 from sklearn.linear_model import Perceptron
@@ -41,7 +41,7 @@ for i, exemplo in enumerate(novos_exemplos):
 
 
 
-#Exercício 3 - Prática de Inteligência Artificial: Decisão sobre Comer Fora ou Cozinhar em Casa
+# Exercício 3 - Prática de Inteligência Artificial: Decisão sobre Comer Fora ou Cozinhar em Casa
 
 import numpy as np
 from sklearn.linear_model import Perceptron
